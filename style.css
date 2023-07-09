@@ -30,6 +30,7 @@
     color: rgb(43, 57, 77);
     font-family: 'Bebas Neue', sans-serif;
     size: 100%;
+    
 }
 
 .texto2 {
@@ -39,4 +40,5 @@
     color: rgb(43, 57, 77);
     font-family: 'Bebas Neue', sans-serif;
     size: 30%;
+    padding-bottom: 5px;
 }
