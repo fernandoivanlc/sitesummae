@@ -16,6 +16,11 @@
     transform: translate(-50% , -50%)
 }
 
+.imagemimagem {
+   width: 500px;
+   height: 150px;
+}
+
 .texto {
     display: flex;
     justify-content: center;
